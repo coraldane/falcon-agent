@@ -3,10 +3,10 @@ package plugins
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/coraldane/agent/g"
-	"github.com/open-falcon/common/model"
+	"github.com/coraldane/falcon-agent/g"
 	"github.com/toolkits/file"
 	"github.com/toolkits/sys"
+	"gitlab.tarzip.com/open-falcon/common/model"
 	"log"
 	"os/exec"
 	"path/filepath"

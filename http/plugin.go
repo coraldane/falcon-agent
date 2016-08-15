@@ -2,8 +2,8 @@ package http
 
 import (
 	"fmt"
-	"github.com/coraldane/agent/g"
-	"github.com/coraldane/agent/plugins"
+	"github.com/coraldane/falcon-agent/g"
+	"github.com/coraldane/falcon-agent/plugins"
 	"github.com/toolkits/file"
 	"net/http"
 	"os/exec"

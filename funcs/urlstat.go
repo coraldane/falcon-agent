@@ -7,10 +7,10 @@ import (
 	"log"
 	"strings"
 
-	"github.com/coraldane/agent/g"
-	"github.com/open-falcon/common/model"
+	"github.com/coraldane/falcon-agent/g"
 	"github.com/toolkits/file"
 	"github.com/toolkits/sys"
+	"gitlab.tarzip.com/open-falcon/common/model"
 )
 
 func UrlMetrics() (L []*model.MetricValue) {

@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/open-falcon/common/model"
 	"github.com/toolkits/net"
 	"github.com/toolkits/slice"
+	"gitlab.tarzip.com/open-falcon/common/model"
 )
 
 var Root string

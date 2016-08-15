@@ -1,8 +1,8 @@
 package funcs
 
 import (
-	"github.com/open-falcon/common/model"
 	"github.com/toolkits/nux"
+	"gitlab.tarzip.com/open-falcon/common/model"
 	"sync"
 )
 

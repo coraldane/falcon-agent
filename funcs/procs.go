@@ -1,9 +1,9 @@
 package funcs
 
 import (
-	"github.com/coraldane/agent/g"
-	"github.com/open-falcon/common/model"
+	"github.com/coraldane/falcon-agent/g"
 	"github.com/toolkits/nux"
+	"gitlab.tarzip.com/open-falcon/common/model"
 	"log"
 	"strings"
 )

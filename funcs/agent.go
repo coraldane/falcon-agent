@@ -1,7 +1,7 @@
 package funcs
 
 import (
-	"github.com/open-falcon/common/model"
+	"gitlab.tarzip.com/open-falcon/common/model"
 )
 
 func AgentMetrics() []*model.MetricValue {

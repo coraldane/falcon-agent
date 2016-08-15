@@ -2,7 +2,7 @@ package http
 
 import (
 	"encoding/json"
-	"github.com/coraldane/agent/g"
+	"github.com/coraldane/falcon-agent/g"
 	"log"
 	"net/http"
 	_ "net/http/pprof"

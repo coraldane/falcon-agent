@@ -1,7 +1,7 @@
 package http
 
 import (
-	"github.com/coraldane/agent/funcs"
+	"github.com/coraldane/falcon-agent/funcs"
 	"net/http"
 )
 

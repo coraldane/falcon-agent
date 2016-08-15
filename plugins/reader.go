@@ -1,7 +1,7 @@
 package plugins
 
 import (
-	"github.com/coraldane/agent/g"
+	"github.com/coraldane/falcon-agent/g"
 	"github.com/toolkits/file"
 	"io/ioutil"
 	"log"
