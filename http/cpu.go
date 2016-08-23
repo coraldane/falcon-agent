@@ -3,7 +3,7 @@ package http
 import (
 	"fmt"
 	"github.com/coraldane/falcon-agent/funcs"
-	"github.com/toolkits/nux"
+	"github.com/coraldane/nux"
 	"net/http"
 	"runtime"
 )

@@ -2,7 +2,7 @@ package funcs
 
 import (
 	"fmt"
-	"github.com/toolkits/nux"
+	"github.com/coraldane/nux"
 	"gitlab.tarzip.com/open-falcon/common/model"
 	"log"
 	"strings"

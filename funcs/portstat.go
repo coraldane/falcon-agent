@@ -3,7 +3,7 @@ package funcs
 import (
 	"fmt"
 	"github.com/coraldane/falcon-agent/g"
-	"github.com/toolkits/nux"
+	"github.com/coraldane/nux"
 	"github.com/toolkits/slice"
 	"gitlab.tarzip.com/open-falcon/common/model"
 	"log"
