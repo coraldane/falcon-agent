@@ -2,7 +2,7 @@ package funcs
 
 import (
 	"fmt"
-	"github.com/coraldane/nux"
+	"github.com/toolkits/nux"
 	"github.com/toolkits/sys"
 )
 

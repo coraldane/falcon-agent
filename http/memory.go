@@ -1,7 +1,7 @@
 package http
 
 import (
-	"github.com/coraldane/nux"
+	"github.com/toolkits/nux"
 	"net/http"
 )
 
