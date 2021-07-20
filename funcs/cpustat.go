@@ -2,7 +2,7 @@ package funcs
 
 import (
 	"github.com/toolkits/nux"
-	"gitlab.tarzip.com/open-falcon/ops-common/model"
+	"github.com/coraldane/ops-common/model"
 	"sync"
 )
 

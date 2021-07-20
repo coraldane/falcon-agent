@@ -3,7 +3,7 @@ package http
 import (
 	"encoding/json"
 	"github.com/coraldane/falcon-agent/g"
-	"gitlab.tarzip.com/open-falcon/ops-common/model"
+	"github.com/coraldane/ops-common/model"
 	"net/http"
 )
 

@@ -2,7 +2,7 @@ package funcs
 
 import (
 	"github.com/coraldane/falcon-agent/g"
-	"gitlab.tarzip.com/open-falcon/ops-common/model"
+	"github.com/coraldane/ops-common/model"
 )
 
 type FuncsAndInterval struct {

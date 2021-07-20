@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"gitlab.tarzip.com/open-falcon/ops-common/model"
+	"github.com/coraldane/ops-common/model"
 )
 
 var (
