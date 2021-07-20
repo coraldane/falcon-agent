@@ -9,7 +9,7 @@ import (
 
 	"github.com/toolkits/net"
 	"github.com/toolkits/slice"
-	"github.com/coraldane/ops-common/model"
+	"gitlab.tarzip.com/open-falcon/common/model"
 )
 
 var Root string
