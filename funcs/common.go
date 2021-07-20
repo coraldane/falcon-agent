@@ -1,7 +1,7 @@
 package funcs
 
 import (
-	"gitlab.tarzip.com/open-falcon/common/model"
+	"gitlab.tarzip.com/open-falcon/ops-common/model"
 	"strings"
 )
 

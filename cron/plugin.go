@@ -3,7 +3,7 @@ package cron
 import (
 	"github.com/coraldane/falcon-agent/g"
 	"github.com/coraldane/falcon-agent/plugins"
-	"gitlab.tarzip.com/open-falcon/common/model"
+	"gitlab.tarzip.com/open-falcon/ops-common/model"
 	"log"
 	"strings"
 	"time"

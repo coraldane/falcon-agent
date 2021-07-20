@@ -5,7 +5,7 @@ import (
 
 	"github.com/coraldane/falcon-agent/funcs"
 	"github.com/coraldane/falcon-agent/g"
-	"gitlab.tarzip.com/open-falcon/common/model"
+	"gitlab.tarzip.com/open-falcon/ops-common/model"
 )
 
 func InitDataHistory() {

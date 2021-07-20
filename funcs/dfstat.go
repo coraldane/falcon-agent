@@ -3,7 +3,7 @@ package funcs
 import (
 	"fmt"
 	"github.com/toolkits/nux"
-	"gitlab.tarzip.com/open-falcon/common/model"
+	"gitlab.tarzip.com/open-falcon/ops-common/model"
 	"log"
 )
 
